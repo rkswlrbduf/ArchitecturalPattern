@@ -1,2 +1,2 @@
 # ArchitecturalPattern
-###RAW, MVC, MVP 패턴
+### RAW, MVC, MVP 패턴
