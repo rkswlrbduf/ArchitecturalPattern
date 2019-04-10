@@ -1,0 +1,1 @@
+# ArchitecturalPattern
